@@ -69,5 +69,3 @@ O sistema oferece as seguintes funcionalidades:
 
 ---
 
-**Observação:** Adicione capturas de tela ou vídeos explicativos, se necessário, para facilitar a compreensão das funcionalidades.
-
